@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Aidan Rhianne
+logo: "C:\Users\aidan\OneDrive\Documents\Personal\DSC09346 (1) (2).jpg"
+description: 
+  I am a global citizen who hopes to create forward-thinking cities rooted in inclusivity, sustainability, and digital innovation. Currently a Master of City Planning candidate at the University of Pennsylvania, I am exploring how best to utilize data driven strategies and technology to ensure that our future urban infrastructure empowers social, racial, and environmental justice. 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/aidan-rhianne-mclaughlin/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
